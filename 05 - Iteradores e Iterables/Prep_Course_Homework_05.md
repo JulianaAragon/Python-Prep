@@ -41,7 +41,3 @@ cadena = 'Hola Mundo. Esto es una practica del lenguaje de programación Python'
 14) A partir de la siguiente lista de números, crear una nueva sólo si el número es divisible por 7<br>
 lis = [18,21,29,32,35,42,56,60,63,71,84,90,91,100]
 
-15) A partir de la lista de a continuación, contar la cantidad total de elementos que contiene, teniendo en cuenta que un elemento de la lista podría ser otra lista:<br>
-lis = [[1,2,3,4],'rojo','verde',[True,False,False],['uno','dos','tres']]
-
-16) Tomar la lista del punto anterior y convertir cada elemento en una lista si no lo es
